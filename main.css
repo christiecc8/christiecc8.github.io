@@ -7,6 +7,16 @@ h1 {
     font-size: 34px;
     color: #6D597A;
 }
+
+div {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    
+}
+
 p {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
