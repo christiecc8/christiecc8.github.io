@@ -9,13 +9,12 @@ h1 {
 }
 
 div {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     position: absolute;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+    padding: 10px;
 }
 
 p {
