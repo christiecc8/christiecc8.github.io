@@ -18,5 +18,12 @@ p.first {
 p.second {
     font-family: 'Comfortaa', sans-serif;
     font-size: 20px;
+    color: #E56B6F;
+}
+
+p.third {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
     color: #EAAC8B;
 }
+
