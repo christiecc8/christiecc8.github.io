@@ -36,16 +36,22 @@ p.third {
 }
 
 a:link {
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
     color: #E56B6F;
 }
 
 a:visited {
-  color: #E56B6F;
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+    color: #E56B6F;
 }
 
 /* mouse over link */
 a:hover {
-  color: #EAAC8B;
+    color: #EAAC8B;
 }
 .image {
     display: block;
