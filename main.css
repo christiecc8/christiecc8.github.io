@@ -17,11 +17,22 @@ div {
     padding: 10px;
 }
 
-p {
-    text-align: center;
+p.first {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     color: #B56576;
+}
+
+p.second {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+    color: #E56B6F;
+}
+
+p.third {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+    color: #EAAC8B;
 }
 
 a:link {
@@ -36,9 +47,10 @@ a:visited {
 a:hover {
   color: #EAAC8B;
 }
+
 .image {
+    border-radius: 25px;
     display: block;
-    border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
     width: 20%;
