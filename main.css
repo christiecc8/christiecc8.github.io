@@ -5,7 +5,7 @@ h1 {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 26px;
-    color: #EAAC8B;
+    color: #B56576;
 }
 p {
     text-align: center;
@@ -14,6 +14,10 @@ p {
     color: #EAAC8B;
 }
 
+a:link {
+    color: #E56B6F;
+    
+}
 .image {
     display: block;
     border-radius: 50%;
