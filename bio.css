@@ -1,0 +1,14 @@
+body {
+    background-color: #1B232B;
+}
+
+h1.intro {
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 34px;
+    color: #6D597A;
+}
+
+p.important {
+    color: #EAAC8B;
+}
