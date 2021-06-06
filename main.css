@@ -4,14 +4,14 @@ body {
 h1 {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
-    font-size: 26px;
-    color: #B56576;
+    font-size: 34px;
+    color: #6D597A;
 }
 p {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 18px;
-    color: #E56B6F;
+    color: #B56576;
 }
 
 a:link {
