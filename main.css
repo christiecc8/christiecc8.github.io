@@ -18,18 +18,21 @@ div {
 }
 
 p.first {
+    text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 20px;
     color: #B56576;
 }
 
 p.second {
+    text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 20px;
     color: #E56B6F;
 }
 
 p.third {
+    text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 20px;
     color: #EAAC8B;
