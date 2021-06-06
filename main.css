@@ -11,12 +11,20 @@ p {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 18px;
-    color: #EAAC8B;
+    color: ##E56B6F;
 }
 
 a:link {
     color: #E56B6F;
-    
+}
+
+a:visited {
+  color: #E56B6F;
+}
+
+/* mouse over link */
+a:hover {
+  color: #EAAC8B;
 }
 .image {
     display: block;
