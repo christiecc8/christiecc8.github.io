@@ -5,11 +5,18 @@ h1 {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 26px;
-    color: linear-gradient(to right, #6D597A , #E56B6F);
+    color: #EAAC8B;
 }
 p {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     font-size: 18px;
     color: #EAAC8B;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
