@@ -2,13 +2,19 @@ body {
     background-color: #1B232B;
 }
 
-h1.intro {
+h1 {
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
-    font-size: 34px;
+    font-size: 20px;
     color: #6D597A;
 }
 
-p.important {
+p.first {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+    color: #B56576;
+}
+
+p.second {
     color: #EAAC8B;
 }
