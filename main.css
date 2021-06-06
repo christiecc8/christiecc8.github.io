@@ -23,29 +23,11 @@ p {
     color: #B56576;
 }
 
-p.first {
-    color: #B56576;
-}
-
-p.second {
-    color: #E56B6F;
-}
-
-p.third {
-    color: #EAAC8B;
-}
-
 a:link {
-    text-align: center;
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 18px;
     color: #E56B6F;
 }
 
 a:visited {
-    text-align: center;
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 18px;
     color: #E56B6F;
 }
 
