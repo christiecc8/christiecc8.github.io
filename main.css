@@ -14,27 +14,24 @@ div {
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    padding: 10px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+    color: #B56576;
 }
 
 p.first {
-    text-align: center;
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 20px;
     color: #B56576;
 }
 
 p.second {
-    text-align: center;
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 20px;
     color: #E56B6F;
 }
 
 p.third {
-    text-align: center;
-    font-family: 'Comfortaa', sans-serif;
-    font-size: 20px;
     color: #EAAC8B;
 }
 
@@ -50,10 +47,9 @@ a:visited {
 a:hover {
   color: #EAAC8B;
 }
-
 .image {
-    border-radius: 25px;
     display: block;
+    border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
     width: 20%;
