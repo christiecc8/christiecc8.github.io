@@ -9,10 +9,16 @@ h1 {
     color: #6D597A;
 }
 
-ul.1 {
+ul.list1 {
     font-family: 'Comfortaa', sans-serif;
     font-size: 28px;
     color: #B56576;
+}
+
+ul.list2 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 28px;
+    color: #E56B6F;
 }
 
 p.first {
