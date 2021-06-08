@@ -9,15 +9,15 @@ h1 {
     color: #6D597A;
 }
 
-ul.list1 {
+li.list1 {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 28px;
+    font-size: 18px;
     color: #B56576;
 }
 
-ul.list2 {
+li.list2 {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 28px;
+    font-size: 18px;
     color: #E56B6F;
 }
 
