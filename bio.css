@@ -29,7 +29,19 @@ p.third {
 
 p.subtext {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     color: #B56576;
+}
+
+p.subtext2 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 16px;
+    color: #E56B6F;
+}
+
+p.subtext3 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 16px;
+    color: #EAAC8B;
 }
 
