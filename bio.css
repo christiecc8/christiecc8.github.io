@@ -11,14 +11,20 @@ h1 {
 
 ul.list1 {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 18px;
     color: #B56576;
 }
 
 ul.list2 {
     font-family: 'Comfortaa', sans-serif;
-    font-size: 18px;
     color: #E56B6F;
+}
+
+.list1 li {
+    font-size: 18px;
+}
+
+.list2 li {
+    font-size:18px;
 }
 
 p.first {
