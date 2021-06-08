@@ -27,3 +27,9 @@ p.third {
     color: #EAAC8B;
 }
 
+p.subtext {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 16px;
+    color: #B56576;
+}
+
